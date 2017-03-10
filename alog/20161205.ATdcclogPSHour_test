@@ -1,0 +1,4 @@
+2016-12-05 17:01:23|jobkeeper|lock|http://openapi.autodmp.com/jobkeeper/v1.0/index.php/jobtask/status/put?key=9b8619251a19057cff70779273e95aa6&group=Autotracking_test&job=ATdcclogPSHour_test&lock=1
+2016-12-05 17:01:23|2016-11-22 01:00:00|dofiles|start + + + + + + + + + + + + + + + + + + + +
+2016-12-05 17:01:23|2016112201|FilesDcclog dofiles_hour|rtime:20161122010000|start
+2016-12-05 17:01:34|2016112201|FilesDcclog dofiles_hour|dcclog_file down success: dcclog.2016112201.gz

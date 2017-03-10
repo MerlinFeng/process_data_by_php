@@ -1,0 +1,199 @@
+2016-12-03 11:28:15|jobkeeper|lock|http://openapi.autodmp.com/jobkeeper/v1.0/index.php/jobtask/status/put?key=9b8619251a19057cff70779273e95aa6&group=Autotracking_test&job=ATdcclogPSHour_test&lock=1
+2016-12-03 11:28:16|2016-11-22 00:00:00|dofiles|start + + + + + + + + + + + + + + + + + + + +
+2016-12-03 11:28:16|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|start
+2016-12-03 11:28:24|2016112200|FilesDcclog dofiles_hour|dcclog_file down success: dcclog.2016112200.gz
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|time|all:6.103515625E-5
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|end|muse:1M
+2016-12-03 11:28:58|callback_file worker info {"pipe":3,"callback":"worker_dcclog","pid":5647}
+2016-12-03 11:28:58|callback_file worker info {"pipe":5,"callback":"worker_dcclog","pid":5648}
+2016-12-03 11:28:58|callback_file worker info {"pipe":3,"callback":"worker_dcclog","pid":5649}
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|start
+2016-12-03 11:28:58|callback_file worker info {"pipe":5,"callback":"worker_dcclog","pid":5650}
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|start
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|start
+2016-12-03 11:28:58|callback_file worker info {"pipe":3,"callback":"worker_dcclog","pid":5651}
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|start
+2016-12-03 11:28:58|callback_file worker info {"pipe":5,"callback":"worker_dcclog","pid":5656}
+2016-12-03 11:28:58|callback_file worker info {"pipe":5,"callback":"worker_dcclog","pid":5654}
+2016-12-03 11:28:58|callback_file worker info {"pipe":3,"callback":"worker_dcclog","pid":5653}
+2016-12-03 11:28:58|callback_file worker info {"pipe":5,"callback":"worker_dcclog","pid":5652}
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|start
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|start
+2016-12-03 11:28:58|callback_file worker info {"pipe":3,"callback":"worker_dcclog","pid":5655}
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|start
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|start
+2016-12-03 11:28:58|进程5656回收成功
+2016-12-03 11:28:58|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|start
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|all:384.18945002556
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|url:11.981821060181
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|do_string_type:2.5586431026459
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|list:0.57800078392029
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|parse_url:1.1097965240479
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|str_replace:0.81925535202026
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|switch:114.62467455864
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|file:252.97578191757
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|ip2provinceid2:32.355440616608
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|get_domain_id:103.94635438919
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|get_url_id:101.76532244682
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|file_put_contents:8.891318321228
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|dcbe:0.079587697982788
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|dcin:0.036176919937134
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|155:0.0001835823059082
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|143:5.6982040405273E-5
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|time|163:3.2901763916016E-5
+2016-12-03 11:35:22|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|end|muse:35M
+2016-12-03 11:35:22|进程5655回收成功
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|all:401.00471806526
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|url:11.985916376114
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|do_string_type:2.5673236846924
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|list:0.57887315750122
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|parse_url:1.1117362976074
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|str_replace:0.83256864547729
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|switch:116.52805280685
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|file:267.82108712196
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|ip2provinceid2:35.072410583496
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|get_domain_id:109.74051380157
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|get_url_id:108.60874128342
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|file_put_contents:8.292822599411
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|dcbe:0.094633340835571
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|dcin:0.041705131530762
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|155:0.0003204345703125
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|143:0.00011062622070312
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|time|163:6.8902969360352E-5
+2016-12-03 11:35:39|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|end|muse:37M
+2016-12-03 11:35:39|进程5652回收成功
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|all:404.70981693268
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|url:12.677299022675
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|do_string_type:2.7176628112793
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|list:0.61264181137085
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|parse_url:1.1757071018219
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|str_replace:0.86072707176208
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|switch:116.0139567852
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|file:271.14975476265
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|ip2provinceid2:34.921877384186
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|get_domain_id:111.42579030991
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|get_url_id:109.6892323494
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|file_put_contents:8.7681453227997
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|dcbe:0.092159032821655
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|dcin:0.037731170654297
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|155:0.00019454956054688
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|143:7.1525573730469E-5
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|time|163:4.7922134399414E-5
+2016-12-03 11:35:43|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|end|muse:37M
+2016-12-03 11:35:43|进程5649回收成功
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|all:406.96838402748
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|url:12.852240562439
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|do_string_type:2.7372221946716
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|list:0.62730407714844
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|parse_url:1.1935777664185
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|str_replace:0.86984491348267
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|switch:120.65583324432
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|file:268.48170995712
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|ip2provinceid2:34.157204866409
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|get_domain_id:109.77345466614
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|get_url_id:109.34723234177
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|file_put_contents:8.7792880535126
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|dcin:0.039260149002075
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|dcbe:0.094103574752808
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|155:0.00023841857910156
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|143:0.00011539459228516
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|time|163:4.8637390136719E-5
+2016-12-03 11:35:45|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|end|muse:36M
+2016-12-03 11:35:45|进程5651回收成功
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|all:407.43500590324
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|url:12.885641336441
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|do_string_type:2.7407541275024
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|list:0.62428665161133
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|parse_url:1.193169593811
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|str_replace:0.8773148059845
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|switch:116.92688059807
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|file:272.66860032082
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|ip2provinceid2:35.749268531799
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|get_domain_id:111.73663806915
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|get_url_id:110.03610181808
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|file_put_contents:8.7619235515594
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|dcin:0.04062294960022
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|dcbe:0.092647552490234
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|155:9.4890594482422E-5
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|143:5.9604644775391E-5
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|time|163:2.3841857910156E-5
+2016-12-03 11:35:46|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|end|muse:37M
+2016-12-03 11:35:46|进程5654回收成功
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|all:414.80717492104
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|url:12.808689594269
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|do_string_type:2.7180876731873
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|list:0.62329196929932
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|parse_url:1.2038271427155
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|str_replace:0.88089442253113
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|switch:118.99937200546
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|file:278.01392960548
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|ip2provinceid2:34.71019744873
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|get_domain_id:116.78310918808
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|get_url_id:111.3340241909
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|file_put_contents:8.7558083534241
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|dcbe:0.09461522102356
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|dcin:0.039239883422852
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|155:0.00036001205444336
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|143:0.0001225471496582
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|163:5.5551528930664E-5
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|end|muse:36M
+2016-12-03 11:35:53|进程5647回收成功
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|all:415.03170990944
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|url:12.870194196701
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|do_string_type:2.7520492076874
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|list:0.61389303207397
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|parse_url:1.2050025463104
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|str_replace:0.88414263725281
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|switch:123.38047385216
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|file:273.8740530014
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|ip2provinceid2:35.422778129578
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|get_domain_id:112.13167762756
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|get_url_id:111.0806324482
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|file_put_contents:8.8507211208344
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|dcin:0.03953218460083
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|dcbe:0.091729402542114
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|155:0.00021028518676758
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|143:9.7990036010742E-5
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|time|163:4.0292739868164E-5
+2016-12-03 11:35:53|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|end|muse:37M
+2016-12-03 11:35:53|进程5650回收成功
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|all:416.78183221817
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|url:12.95764708519
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|do_string_type:2.7678084373474
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|list:0.62362122535706
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|parse_url:1.2051701545715
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|str_replace:0.88257527351379
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|switch:123.85859274864
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|file:274.97302365303
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|ip2provinceid2:35.252028942108
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|get_domain_id:113.48232984543
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|get_url_id:110.80156588554
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|file_put_contents:8.9622929096222
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|dcbe:0.095990180969238
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|dcin:0.039448738098145
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|155:0.00034618377685547
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|143:6.866455078125E-5
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|time|163:4.5061111450195E-5
+2016-12-03 11:35:55|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|end|muse:37M
+2016-12-03 11:35:55|进程5653回收成功
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|all:420.51958799362
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|url:13.144738197327
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|do_string_type:2.7956709861755
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|list:0.62521839141846
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|parse_url:1.2318871021271
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|str_replace:0.9049813747406
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|switch:122.35879278183
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|dcbe:0.095989465713501
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|file:279.98012399673
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|ip2provinceid2:35.719085454941
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|get_domain_id:115.0925154686
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|get_url_id:113.60460090637
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|file_put_contents:9.0401995182037
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|dcin:0.038734912872314
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|155:0.00027275085449219
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|143:8.0347061157227E-5
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|time|163:5.2213668823242E-5
+2016-12-03 11:35:59|2016112200|FilesDcclog dofiles_hour|rtime:20161122000000|end|muse:37M
+2016-12-03 11:35:59|进程5648回收成功
+2016-12-03 11:35:59|jobkeeper|unlock|http://openapi.autodmp.com/jobkeeper/v1.0/index.php/jobtask/status/put?key=9b8619251a19057cff70779273e95aa6&group=Autotracking_test&job=ATdcclogPSHour_test&datetime=1479744000&lock=0&date=1479657600
+2016-12-03 11:36:04|2016-11-22 00:00:00|dofiles|end

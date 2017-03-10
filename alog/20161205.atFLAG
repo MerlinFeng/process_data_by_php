@@ -1,0 +1,316 @@
+2016-12-05 00:00:00|impression_file down success: idc2.2016120207.gz
+2016-12-05 00:00:10|impression_file json success: idc2.2016120207.gz
+
+2016-12-05 00:00:10|impression_file start success: ======
+2016-12-05 00:00:19|impression_file down success: idc2.2016120208.gz
+2016-12-05 00:00:36|impression_file json success: idc2.2016120208.gz
+
+2016-12-05 00:00:36|impression_file start success: ======
+2016-12-05 00:00:48|impression_file down success: idc2.2016120209.gz
+2016-12-05 00:01:12|impression_file json success: idc2.2016120209.gz
+
+2016-12-05 00:01:12|impression_file start success: ======
+2016-12-05 00:01:27|impression_file down success: idc2.2016120210.gz
+2016-12-05 00:01:57|impression_file json success: idc2.2016120210.gz
+
+2016-12-05 00:01:57|impression_file start success: ======
+2016-12-05 00:04:13|impression_file start success: ======
+2016-12-05 00:04:18|impression_file down success: idc2.2016120200.gz
+2016-12-05 00:04:29|impression_file json success: idc2.2016120200.gz
+
+2016-12-05 00:04:29|impression_file start success: ======
+2016-12-05 00:04:32|impression_file down success: idc2.2016120201.gz
+2016-12-05 00:04:37|impression_file json success: idc2.2016120201.gz
+
+2016-12-05 00:04:37|impression_file start success: ======
+2016-12-05 00:04:39|impression_file down success: idc2.2016120202.gz
+2016-12-05 00:06:04|impression_file start success: ======
+2016-12-05 00:06:07|impression_file down success: idc2.2016120200.gz
+2016-12-05 00:07:45|impression_file start success: ======
+2016-12-05 00:07:48|impression_file down success: idc2.2016120200.gz
+2016-12-05 09:04:52|2016-11-30|delete FROM `auto_report_in_drain` WHERE `time` = '2016-11-30'
+2016-12-05 09:29:05|20161130|dodata|websites_data|start
+2016-12-05 09:29:05|20161130|websites|mongo|start
+2016-12-05 09:30:04|20161130|dodata|websites_data|dcclog20161130|result count:1419|PV
+2016-12-05 09:33:37|20161130|dodata|websites_data|dcclog20161130|result count:1419|UV
+2016-12-05 09:35:00|20161130|dodata|websites_data|dcclog20161130|result count:1345|new_uv
+2016-12-05 09:37:40|20161130|dodata|websites_data|dcclog20161130|result count:1419|IP
+2016-12-05 09:42:22|20161130|dodata|websites_data|dcclog20161130|result count:1419|visit
+2016-12-05 09:47:14|20161130|dodata|websites_data|dcclog20161130|result count:828|visit more
+2016-12-05 09:53:11|20161130|dodata|websites_data|dcclog20161130|result count:1419|time
+2016-12-05 09:53:43|20161130|dodata|websites_data|dcclog20161130|result count:1188|jump
+2016-12-05 09:53:43|20161130|websites|mongo|end
+2016-12-05 09:53:43|20161130|websites|mysql|start
+2016-12-05 09:53:43|2016-11-30|websites|delete FROM `auto_report_web` WHERE `time` = '2016-11-30'
+2016-12-05 09:53:43|2016-11-30|websites|mysql|end
+2016-12-05 10:02:30|impression_file start success: ======
+2016-12-05 10:02:44|impression_file down success: idc2.2016120217.gz
+2016-12-05 10:03:10|impression_file json success: idc2.2016120217.gz
+
+2016-12-05 10:03:10|impression_file start success: ======
+2016-12-05 10:03:21|impression_file down success: idc2.2016120218.gz
+2016-12-05 10:03:42|impression_file json success: idc2.2016120218.gz
+
+2016-12-05 10:03:42|impression_file start success: ======
+2016-12-05 10:03:54|impression_file down success: idc2.2016120219.gz
+2016-12-05 10:04:20|impression_file json success: idc2.2016120219.gz
+
+2016-12-05 10:04:20|impression_file start success: ======
+2016-12-05 10:04:34|impression_file down success: idc2.2016120220.gz
+2016-12-05 10:05:05|impression_file json success: idc2.2016120220.gz
+
+2016-12-05 10:05:05|impression_file start success: ======
+2016-12-05 10:05:29|impression_file down success: idc2.2016120221.gz
+2016-12-05 10:06:01|impression_file json success: idc2.2016120221.gz
+
+2016-12-05 10:06:01|impression_file start success: ======
+2016-12-05 10:06:18|impression_file down success: idc2.2016120222.gz
+2016-12-05 10:06:47|impression_file json success: idc2.2016120222.gz
+
+2016-12-05 10:06:47|impression_file start success: ======
+2016-12-05 10:06:53|impression_file down success: idc2.2016120223.gz
+2016-12-05 10:07:12|impression_file json success: idc2.2016120223.gz
+
+2016-12-05 10:19:16|20161202|impression20161202|impression20161202|drop|0-0
+2016-12-05 10:19:16|20161202|impression20161202|/usr/local/mongodb/bin/mongoimport -h 172.21.0.90 -d impression -c impression20161202  --file /data/wwwroot/at2.2_test/_jsonfiles/impression20161202.json|start
+2016-12-05 10:19:16|20161202|impression20161202|/usr/local/mongodb/bin/mongoimport -h 172.21.0.90 -d impression -c impression20161202  --file /data/wwwroot/at2.2_test/_jsonfiles/impression20161202.json|end|count:23
+2016-12-05 10:41:00|2016-11-30|delete FROM `auto_report_events_leads` WHERE `time` = '2016-11-30'
+2016-12-05 10:42:11|2016-11-30|delete FROM `auto_report_events_leads` WHERE `time` = '2016-11-30'
+2016-12-05 10:45:51|2016-11-30|(143, '2016-11-30', 0, 2, 1, 31, 19, 3, 17, 20, 1, 0, 0, 0,'2016-12-05 10:45:51')
+2016-12-05 10:49:25|2016-11-30|(143, '2016-11-30', 0, 2, 2, 1, 1, 0, 1, 1, 0, 0, 0, 0,'2016-12-05 10:49:25')
+2016-12-05 10:52:49|2016-11-30|(143, '2016-11-30', 0, 4, 5, 226, 131, 62, 124, 143, 10, 0, 0, 0,'2016-12-05 10:52:49')
+2016-12-05 10:56:13|2016-11-30|(143, '2016-11-30', 0, 4, 6, 15, 5, 1, 5, 5, 0, 0, 0, 0,'2016-12-05 10:56:13')
+2016-12-05 10:59:39|2016-11-30|(143, '2016-11-30', 0, 4, 7, 43, 9, 6, 9, 10, 1, 0, 0, 0,'2016-12-05 10:59:39')
+2016-12-05 11:03:04|2016-11-30|(143, '2016-11-30', 0, 4, 15, 6703, 1886, 38, 2009, 1901, 13, 0, 0, 0,'2016-12-05 11:03:04')
+2016-12-05 11:06:24|2016-11-30|(143, '2016-11-30', 0, 15, 18, 3300, 934, 73, 1051, 944, 8, 0, 0, 0,'2016-12-05 11:06:24')
+2016-12-05 11:42:17|2016-11-30|delete FROM `auto_report_affair` WHERE `time` = '2016-11-30'
+2016-12-05 11:50:44|20161130|domain|mongo|start
+2016-12-05 12:24:07|20161130|domain|mongo|end
+2016-12-05 12:24:07|20161130|domain|mysql|start
+2016-12-05 12:24:33|2016-11-30|domain|mysql|end
+2016-12-05 13:30:06|2016-11-30|delete FROM `auto_report_click` WHERE `time` = '2016-11-30'
+2016-12-05 13:32:26|2016-11-30|delete FROM `auto_report_in_drain_begin` WHERE `time` = '2016-11-30'
+2016-12-05 13:34:25|2016-11-30|delete FROM `auto_report_in_drain` WHERE `time` = '2016-11-30'
+2016-12-05 13:34:26|20161130|dodata|websites_data|start
+2016-12-05 13:34:26|20161130|websites|mongo|start
+2016-12-05 13:35:32|20161130|dodata|websites_data|dcclog20161130|result count:1419|PV
+2016-12-05 13:39:10|20161130|dodata|websites_data|dcclog20161130|result count:1419|UV
+2016-12-05 13:40:32|20161130|dodata|websites_data|dcclog20161130|result count:1345|new_uv
+2016-12-05 13:43:14|20161130|dodata|websites_data|dcclog20161130|result count:1419|IP
+2016-12-05 13:48:01|20161130|dodata|websites_data|dcclog20161130|result count:1419|visit
+2016-12-05 13:52:46|20161130|dodata|websites_data|dcclog20161130|result count:828|visit more
+2016-12-05 13:58:47|20161130|dodata|websites_data|dcclog20161130|result count:1419|time
+2016-12-05 13:59:20|20161130|dodata|websites_data|dcclog20161130|result count:1188|jump
+2016-12-05 13:59:20|20161130|websites|mongo|end
+2016-12-05 13:59:20|20161130|websites|mysql|start
+2016-12-05 13:59:20|2016-11-30|websites|delete FROM `auto_report_web` WHERE `time` = '2016-11-30'
+2016-12-05 13:59:20|2016-11-30|websites|mysql|end
+2016-12-05 13:59:20|2016-11-30|delete FROM `auto_report_events_leads` WHERE `time` = '2016-11-30'
+2016-12-05 14:02:38|2016-11-30|(143, '2016-11-30', 0, 2, 1, 31, 19, 3, 17, 20, 1, 0, 0, 0,'2016-12-05 14:02:38')
+2016-12-05 14:05:59|2016-11-30|(143, '2016-11-30', 0, 2, 2, 1, 1, 0, 1, 1, 0, 0, 0, 0,'2016-12-05 14:05:59')
+2016-12-05 14:09:15|2016-11-30|(143, '2016-11-30', 0, 4, 5, 226, 131, 62, 124, 143, 10, 0, 0, 0,'2016-12-05 14:09:15')
+2016-12-05 14:12:39|2016-11-30|(143, '2016-11-30', 0, 4, 6, 15, 5, 1, 5, 5, 0, 0, 0, 0,'2016-12-05 14:12:39')
+2016-12-05 14:16:23|2016-11-30|(143, '2016-11-30', 0, 4, 7, 43, 9, 6, 9, 10, 1, 0, 0, 0,'2016-12-05 14:16:23')
+2016-12-05 14:19:40|2016-11-30|(143, '2016-11-30', 0, 4, 15, 6703, 1886, 38, 2009, 1901, 13, 0, 0, 0,'2016-12-05 14:19:40')
+2016-12-05 14:23:11|2016-11-30|(143, '2016-11-30', 0, 15, 18, 3300, 934, 73, 1051, 944, 8, 0, 0, 0,'2016-12-05 14:23:11')
+2016-12-05 14:34:58|2016-11-30|delete FROM `auto_report_affair` WHERE `time` = '2016-11-30'
+2016-12-05 14:34:59|20161130|domain|mongo|start
+2016-12-05 15:09:31|20161130|domain|mongo|end
+2016-12-05 15:09:31|20161130|domain|mysql|start
+2016-12-05 15:09:42|2016-11-30|domain|mysql|end
+2016-12-05 15:25:01|2016-12-02|delete FROM `auto_report_click` WHERE `time` = '2016-12-02'
+2016-12-05 15:27:11|2016-12-02|delete FROM `auto_report_click` WHERE `time` = '2016-12-02'
+2016-12-05 15:31:30|2016-12-02|delete FROM `auto_report_click` WHERE `time` = '2016-12-02'
+2016-12-05 15:32:02|2016-12-02|delete FROM `auto_report_click` WHERE `time` = '2016-12-02'
+2016-12-05 22:48:20|impression_file start success: ======
+2016-12-05 22:48:41|impression_file down success: idc2.2016120300.gz
+2016-12-05 22:48:52|impression_file json success: idc2.2016120300.gz
+
+2016-12-05 22:48:52|impression_file start success: ======
+2016-12-05 22:48:57|impression_file down success: idc2.2016120301.gz
+2016-12-05 22:49:03|impression_file json success: idc2.2016120301.gz
+
+2016-12-05 22:49:03|impression_file start success: ======
+2016-12-05 22:49:11|impression_file down success: idc2.2016120302.gz
+2016-12-05 22:49:15|impression_file json success: idc2.2016120302.gz
+
+2016-12-05 22:49:15|impression_file start success: ======
+2016-12-05 22:49:23|impression_file down success: idc2.2016120303.gz
+2016-12-05 22:49:26|impression_file json success: idc2.2016120303.gz
+
+2016-12-05 22:49:26|impression_file start success: ======
+2016-12-05 22:49:35|impression_file down success: idc2.2016120304.gz
+2016-12-05 22:49:37|impression_file json success: idc2.2016120304.gz
+
+2016-12-05 22:49:37|impression_file start success: ======
+2016-12-05 22:49:44|impression_file down success: idc2.2016120305.gz
+2016-12-05 22:49:47|impression_file json success: idc2.2016120305.gz
+
+2016-12-05 22:49:47|impression_file start success: ======
+2016-12-05 22:50:10|impression_file down success: idc2.2016120306.gz
+2016-12-05 22:50:15|impression_file json success: idc2.2016120306.gz
+
+2016-12-05 22:50:15|impression_file start success: ======
+2016-12-05 22:50:21|impression_file down success: idc2.2016120307.gz
+2016-12-05 22:50:32|impression_file json success: idc2.2016120307.gz
+
+2016-12-05 22:50:32|impression_file start success: ======
+2016-12-05 22:50:41|impression_file down success: idc2.2016120308.gz
+2016-12-05 22:50:59|impression_file json success: idc2.2016120308.gz
+
+2016-12-05 22:50:59|impression_file start success: ======
+2016-12-05 22:51:10|impression_file down success: idc2.2016120309.gz
+2016-12-05 22:51:34|impression_file json success: idc2.2016120309.gz
+
+2016-12-05 22:51:34|impression_file start success: ======
+2016-12-05 22:51:46|impression_file down success: idc2.2016120310.gz
+2016-12-05 22:52:15|impression_file json success: idc2.2016120310.gz
+
+2016-12-05 22:52:15|impression_file start success: ======
+2016-12-05 22:52:34|impression_file down success: idc2.2016120311.gz
+2016-12-05 22:53:03|impression_file json success: idc2.2016120311.gz
+
+2016-12-05 22:53:03|impression_file start success: ======
+2016-12-05 22:53:18|impression_file down success: idc2.2016120312.gz
+2016-12-05 22:53:47|impression_file json success: idc2.2016120312.gz
+
+2016-12-05 22:53:47|impression_file start success: ======
+2016-12-05 22:54:09|impression_file down success: idc2.2016120313.gz
+2016-12-05 22:54:36|impression_file json success: idc2.2016120313.gz
+
+2016-12-05 22:54:36|impression_file start success: ======
+2016-12-05 22:54:48|impression_file down success: idc2.2016120314.gz
+2016-12-05 22:55:13|impression_file json success: idc2.2016120314.gz
+
+2016-12-05 22:55:13|impression_file start success: ======
+2016-12-05 22:55:31|impression_file down success: idc2.2016120315.gz
+2016-12-05 22:55:57|impression_file json success: idc2.2016120315.gz
+
+2016-12-05 22:55:57|impression_file start success: ======
+2016-12-05 22:56:11|impression_file down success: idc2.2016120316.gz
+2016-12-05 22:56:38|impression_file json success: idc2.2016120316.gz
+
+2016-12-05 22:56:38|impression_file start success: ======
+2016-12-05 22:56:52|impression_file down success: idc2.2016120317.gz
+2016-12-05 22:57:16|impression_file json success: idc2.2016120317.gz
+
+2016-12-05 22:57:16|impression_file start success: ======
+2016-12-05 22:57:27|impression_file down success: idc2.2016120318.gz
+2016-12-05 22:57:50|impression_file json success: idc2.2016120318.gz
+
+2016-12-05 22:57:50|impression_file start success: ======
+2016-12-05 22:58:19|impression_file down success: idc2.2016120319.gz
+2016-12-05 22:58:44|impression_file json success: idc2.2016120319.gz
+
+2016-12-05 22:58:44|impression_file start success: ======
+2016-12-05 22:59:04|impression_file down success: idc2.2016120320.gz
+2016-12-05 22:59:34|impression_file json success: idc2.2016120320.gz
+
+2016-12-05 22:59:34|impression_file start success: ======
+2016-12-05 22:59:48|impression_file down success: idc2.2016120321.gz
+2016-12-05 23:00:19|impression_file json success: idc2.2016120321.gz
+
+2016-12-05 23:00:19|impression_file start success: ======
+2016-12-05 23:00:32|impression_file down success: idc2.2016120322.gz
+2016-12-05 23:00:59|impression_file json success: idc2.2016120322.gz
+
+2016-12-05 23:00:59|impression_file start success: ======
+2016-12-05 23:01:10|impression_file down success: idc2.2016120323.gz
+2016-12-05 23:01:29|impression_file json success: idc2.2016120323.gz
+
+2016-12-05 23:01:29|impression_file start success: ======
+2016-12-05 23:01:50|impression_file down success: idc2.2016120400.gz
+2016-12-05 23:02:01|impression_file json success: idc2.2016120400.gz
+
+2016-12-05 23:02:01|impression_file start success: ======
+2016-12-05 23:02:19|impression_file down success: idc2.2016120401.gz
+2016-12-05 23:02:25|impression_file json success: idc2.2016120401.gz
+
+2016-12-05 23:02:25|impression_file start success: ======
+2016-12-05 23:02:30|impression_file down success: idc2.2016120402.gz
+2016-12-05 23:02:34|impression_file json success: idc2.2016120402.gz
+
+2016-12-05 23:02:34|impression_file start success: ======
+2016-12-05 23:02:38|impression_file down success: idc2.2016120403.gz
+2016-12-05 23:02:42|impression_file json success: idc2.2016120403.gz
+
+2016-12-05 23:02:42|impression_file start success: ======
+2016-12-05 23:02:51|impression_file down success: idc2.2016120404.gz
+2016-12-05 23:02:53|impression_file json success: idc2.2016120404.gz
+
+2016-12-05 23:02:53|impression_file start success: ======
+2016-12-05 23:02:57|impression_file down success: idc2.2016120405.gz
+2016-12-05 23:03:00|impression_file json success: idc2.2016120405.gz
+
+2016-12-05 23:03:00|impression_file start success: ======
+2016-12-05 23:03:10|impression_file down success: idc2.2016120406.gz
+2016-12-05 23:03:15|impression_file json success: idc2.2016120406.gz
+
+2016-12-05 23:03:15|impression_file start success: ======
+2016-12-05 23:03:27|impression_file down success: idc2.2016120407.gz
+2016-12-05 23:03:36|impression_file json success: idc2.2016120407.gz
+
+2016-12-05 23:03:36|impression_file start success: ======
+2016-12-05 23:03:51|impression_file down success: idc2.2016120408.gz
+2016-12-05 23:04:06|impression_file json success: idc2.2016120408.gz
+
+2016-12-05 23:04:06|impression_file start success: ======
+2016-12-05 23:04:29|impression_file down success: idc2.2016120409.gz
+2016-12-05 23:04:52|impression_file json success: idc2.2016120409.gz
+
+2016-12-05 23:04:52|impression_file start success: ======
+2016-12-05 23:05:08|impression_file down success: idc2.2016120410.gz
+2016-12-05 23:05:34|impression_file json success: idc2.2016120410.gz
+
+2016-12-05 23:05:34|impression_file start success: ======
+2016-12-05 23:05:53|impression_file down success: idc2.2016120411.gz
+2016-12-05 23:06:21|impression_file json success: idc2.2016120411.gz
+
+2016-12-05 23:06:21|impression_file start success: ======
+2016-12-05 23:06:35|impression_file down success: idc2.2016120412.gz
+2016-12-05 23:07:03|impression_file json success: idc2.2016120412.gz
+
+2016-12-05 23:07:03|impression_file start success: ======
+2016-12-05 23:07:19|impression_file down success: idc2.2016120413.gz
+2016-12-05 23:07:43|impression_file json success: idc2.2016120413.gz
+
+2016-12-05 23:07:43|impression_file start success: ======
+2016-12-05 23:07:53|impression_file down success: idc2.2016120414.gz
+2016-12-05 23:08:15|impression_file json success: idc2.2016120414.gz
+
+2016-12-05 23:08:15|impression_file start success: ======
+2016-12-05 23:08:34|impression_file down success: idc2.2016120415.gz
+2016-12-05 23:08:58|impression_file json success: idc2.2016120415.gz
+
+2016-12-05 23:08:58|impression_file start success: ======
+2016-12-05 23:09:08|impression_file down success: idc2.2016120416.gz
+2016-12-05 23:09:31|impression_file json success: idc2.2016120416.gz
+
+2016-12-05 23:09:31|impression_file start success: ======
+2016-12-05 23:09:45|impression_file down success: idc2.2016120417.gz
+2016-12-05 23:10:06|impression_file json success: idc2.2016120417.gz
+
+2016-12-05 23:10:06|impression_file start success: ======
+2016-12-05 23:10:23|impression_file down success: idc2.2016120418.gz
+2016-12-05 23:10:44|impression_file json success: idc2.2016120418.gz
+
+2016-12-05 23:10:44|impression_file start success: ======
+2016-12-05 23:11:16|impression_file down success: idc2.2016120419.gz
+2016-12-05 23:11:40|impression_file json success: idc2.2016120419.gz
+
+2016-12-05 23:11:40|impression_file start success: ======
+2016-12-05 23:11:54|impression_file down success: idc2.2016120420.gz
+2016-12-05 23:12:23|impression_file json success: idc2.2016120420.gz
+
+2016-12-05 23:12:23|impression_file start success: ======
+2016-12-05 23:12:37|impression_file down success: idc2.2016120421.gz
+2016-12-05 23:13:06|impression_file json success: idc2.2016120421.gz
+
+2016-12-05 23:13:06|impression_file start success: ======
+2016-12-05 23:13:24|impression_file down success: idc2.2016120422.gz
+2016-12-05 23:13:51|impression_file json success: idc2.2016120422.gz
+
+2016-12-05 23:13:51|impression_file start success: ======
+2016-12-05 23:14:05|impression_file down success: idc2.2016120423.gz
+2016-12-05 23:14:22|impression_file json success: idc2.2016120423.gz
+
